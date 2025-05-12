@@ -51,12 +51,8 @@ Seja bem vindo ao Conversor de moedas:
 3. O programa exibirá o resultado formatado:
 
 ```
-Moeda de origem: USD
-Moeda de destino: BRL
-Valor original: 100.0
-Valor convertido: 496.50
-Taxa de câmbio: 4.965
-Data/hora: 2023-11-20T15:30:45.123456
+Data e hora: 12/05/2025 19:09:17
+Valor: US$ 100,00 (Dólares) correspondem a R$ 565,10 (Reais)
 ```
 
 ## ⚙️Configuração
